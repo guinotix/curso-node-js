@@ -1,1 +1,5 @@
 node_modules
+
+# Firebase Credentials
+/clase-5/secure.json
+/clase-5/firebase.js
